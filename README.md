@@ -121,7 +121,7 @@ I am not an expert, I just really like to learn, tinker around and experiment wi
 </tr>
 </table>
 
-<p align="center">📚 <b>I am learning something new with every project — currently Supabase, C++, and Python.</b></p>
+<p align="center">📚 <b>I am learning something new with every project — currently C++, and Python.</b></p>
 
 ---
 
