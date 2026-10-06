@@ -60,7 +60,7 @@ I am not an expert, I just really like to learn, tinker around and experiment wi
 
 ## ☁️ Tech I Work With
 
-<p align="center"><sub>Still learning these — especially Supabase, C++, and Python.</sub></p>
+<p align="center"><sub>Still learning these — especially C++, and Python.</sub></p>
 
 <table align="center">
 <tr>
