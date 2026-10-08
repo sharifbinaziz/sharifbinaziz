@@ -8,9 +8,8 @@
 
 <p align="center">
 <a href="https://sharifbinaziz.web.app"><img src="https://img.shields.io/badge/Portfolio-sharifbinaziz.web.app-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0d1117" alt="Portfolio"/></a>
-<a href="https://shaspie.vercel.app/"><img src="https://img.shields.io/badge/Shaspie-Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Vercel"/></a>
-<a href="https://bagdadbreadfactory.shadmansharif.workers.dev/"><img src="https://img.shields.io/badge/Bagdad_Bread_Factory-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0d1117" alt="Cloudflare"/></a>
-</p>
+          <a href="https://shaspie.vercel.app/"><img src="https://img.shields.io/badge/Blog-shaspie.vercel.app-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Blog"/></a>
+
 
 ---
 
@@ -24,19 +23,6 @@ I am not an expert, I just really like to learn, tinker around and experiment wi
 
 ---
 
-## 🌐 Live Projects
-
-|       | Project                                                               | Hosted On                                                                                                       | Link                                                                                                  |
-| :---: | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-|  | **Personal Website** — my portfolio and journey                       | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)       | [sharifbinaziz.web.app](https://sharifbinaziz.web.app)                                                |
-|      | **Shaspie** — live web project                                        | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)             | [shaspie.vercel.app](https://shaspie.vercel.app/)                                                     |
-|     | **Bagdad Bread Factory & Sweets** — business website with admin panel | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) | [bagdadbreadfactory.shadmansharif.workers.dev](https://bagdadbreadfactory.shadmansharif.workers.dev/) |
-
-<p align="center">
-<img src="https://img.shields.io/badge/%E2%88%9E-AND%20MORE-00C2FF?style=for-the-badge&labelColor=0d1117" alt="Infinity"/>
-</p>
-
----
 
 ## 🛠️ I am still learning.
 
