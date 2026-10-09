@@ -114,8 +114,8 @@ I am not an expert, I just really like to learn, tinker around and experiment wi
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shadman-sharif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadman-sharif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sharifbinaziz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifbinaziz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
 </p>
 
 ---
