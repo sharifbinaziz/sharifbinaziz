@@ -3,13 +3,14 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=620&lines=Building+websites+with+love+%F0%9F%8C%90;Capturing+moments+through+photography+%F0%9F%93%B8;Experimenting+with+IoT+%26+Robotics+%F0%9F%A4%96;Learning+C%2B%2B+and+Python+%F0%9F%90%8D;Learning+Supabase+and+something+new+every+day+%F0%9F%9A%80" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=620&lines=Building+websites+with+love+%F0%9F%8C%90;Experimenting+with+IoT+%26+Robotics+%F0%9F%A4%96;Robotics+is+my+favorite+playground+%F0%9F%A6%BE;Capturing+moments+through+photography+%F0%9F%93%B8;Learning+C%2B%2B+and+Python+%F0%9F%90%8D;Learning+Supabase+and+something+new+every+day+%F0%9F%9A%80" alt="Typing animation"/>
 </p>
 
 <p align="center">
 <a href="https://sharifbinaziz.web.app"><img src="https://img.shields.io/badge/Portfolio-sharifbinaziz.web.app-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0d1117" alt="Portfolio"/></a>
           <a href="https://shaspie.vercel.app/"><img src="https://img.shields.io/badge/Blog-shaspie.vercel.app-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Blog"/></a>
-
+          <img src="https://img.shields.io/badge/%F0%9F%A4%96%20ROBOTICS-FAVORITE-00C2FF?style=for-the-badge&labelColor=0d1117" alt="Robotics"/>
+</p>
 
 ---
 
@@ -21,11 +22,12 @@ I like to make, code, learn something new everyday, take pictures and be experim
 
 I am not an expert, I just really like to learn, tinker around and experiment with new things. Right now I am learning Supabase — databases, auth, and backends — and also C++ and Python, alongside the tools I already use.
 
+> ### 🤖 **Robotics is where I have the most fun.**
+> **Building robots with servos, motors & Arduino** is my favorite way to bring code to life.
+
 ---
 
-
 ## 🛠️ I am still learning.
-
 
 <p align="center">
 <img src="https://img.shields.io/badge/%20-FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0d1117" alt="Firebase"/>
@@ -90,7 +92,10 @@ I am not an expert, I just really like to learn, tinker around and experiment wi
 </a><br/>
 <b>Vercel</b><br/><sub>Fast frontend hosting</sub>
 </td>
-<td align="center" width="180"></td>
+<td align="center" width="180">
+<a href="https://www.arduino.cc/"><img src="https://cdn.simpleicons.org/arduino/00979D" width="48" height="48" alt="Arduino"/></a><br/>
+<b>Arduino</b><br/><sub>🤖 Powering my robotics projects</sub>
+</td>
 </tr>
 </table>
 
@@ -103,11 +108,21 @@ I am not an expert, I just really like to learn, tinker around and experiment wi
 <td align="center" width="200">🌐<br/><b>Building Websites</b><br/><sub>Clean, responsive sites</sub></td>
 <td align="center" width="200">📸<br/><b>Photography</b><br/><sub>Telling stories through frames</sub></td>
 <td align="center" width="200">🔌<br/><b>IoT</b><br/><sub>Connecting devices to the web</sub></td>
-<td align="center" width="200">🤖<br/><b>Robotics</b><br/><sub>Servos, motors & Arduino</sub></td>
+<td align="center" width="200">🤖<br/><b>ROBOTICS</b><br/><sub>Servos, motors & Arduino</b><br/><sub>My favorite thing to build!</sub></td>
 </tr>
 </table>
 
 <p align="center">📚 <b>I am learning something new with every project — currently C++, and Python.</b></p>
+
+---
+
+## 🤖 Robotics Spotlight
+
+<p align="center">
+<img src="https://img.shields.io/badge/%F0%9F%A6%BE%20ROBOTICS-Servos%20%C2%B7%20Motors%20%C2%B7%20Arduino-00C2FF?style=for-the-badge&labelColor=0d1117" alt="Robotics spotlight"/>
+</p>
+
+<p align="center"><b>Robotics is the part of tech I enjoy most — turning code into things that move, sense and react.</b></p>
 
 ---
 
@@ -127,4 +142,3 @@ I am not an expert, I just really like to learn, tinker around and experiment wi
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2ff,50:1f6feb,100:0d1117&height=110&section=footer" width="100%" alt="Footer"/>
 </p>
-
