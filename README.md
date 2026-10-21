@@ -139,6 +139,4 @@ I am not an expert, I just really like to learn, tinker around and experiment wi
 <i>I have no special talents. I am only passionately curious. - Albert Einstein ✨</i>
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2ff,50:1f6feb,100:0d1117&height=110&section=footer" width="100%" alt="Footer"/>
-</p>
+
