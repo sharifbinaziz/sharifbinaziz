@@ -16,7 +16,7 @@
 
 ## 🕸️ About Me (shaspie)
 
-Welcome! I am Sharif Bin Aziz Shadman, a curious technology and creative geek.
+Welcome! I am Sharif Bin Aziz Shadman, a curious robotics and technology geek.
 
 I like to make, code, learn something new everyday, take pictures and be experimental. I am a perpetual student who am always learning and trying to get better with every single project that I execute.
 
