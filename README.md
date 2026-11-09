@@ -22,7 +22,7 @@ I like to make, code, learn something new everyday, take pictures and be experim
 
 I am not an expert, I just really like to learn, tinker around and experiment with new things. Right now I am learning Supabase — databases, auth, and backends — and also C++ and Python, alongside the tools I already use.
 
-> ### 🤖 **Robotics is where I have the most fun.**
+> ### 🤖 **Robotics - I have the most fun.**
 > **Building robots with servos, motors & Arduino** is my favorite way to bring code to life.
 
 ---
